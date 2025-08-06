@@ -1,0 +1,149 @@
+[
+    {
+        "currency": "THB",
+        "chip": 10,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ecda6d0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 20,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed011c0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 30,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed01b80>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 50,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ecd0c10>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 100,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ecda5e0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 200,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed013d0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 300,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed09580>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 500,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed09f40>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 1000,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed09bb0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 2000,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed090a0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "THB",
+        "chip": 3000,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed019a0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 1,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ecda580>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 2,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ecd0a30>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 3,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ecd0b20>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 5,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ecda730>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 10,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed01940>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 20,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed095e0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 30,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed09f40>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 50,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed6c940>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 100,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed09580>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    },
+    {
+        "currency": "GSK",
+        "chip": 200,
+        "table": "plko-blue-mid",
+        "error": "HTTPSConnectionPool(host='u13.ns86.kingmakergames.co', port=443): Max retries exceeded with url: /table/api/single_plays/batch_create (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10ed098e0>: Failed to resolve 'u13.ns86.kingmakergames.co' ([Errno 8] nodename nor servname provided, or not known)\"))",
+        "success": false
+    }
+]
