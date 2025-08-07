@@ -247,8 +247,8 @@ if __name__ == "__main__":
 
             if retry_queue:
                 print(f"[🔁] 重试以下游戏: {retry_queue}")
-                print(f"\n============== 重试游戏: {game} ==============")
                 for game in retry_queue:
+                    print(f"\n============== 重试游戏: {game} ==============")
                     identifier = crash_display_to_identifier.get(game, game.lower())
                     success = run_game_and_get_info(nickname, game, identifier, buffer_crash)
                     if not success:
