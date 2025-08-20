@@ -16,7 +16,7 @@ login_url = "https://uatmw.kmgamesdev.net/"
 client_id = "c927a7f2a4db52d24940ff3ca83dd862"
 lobbies_url = "https://uat.kmgamesdev.net/table/api/lobbies"
 sheet_url = "https://docs.google.com/spreadsheets/d/1Yq0uXVaYufwWk1h-9BrOlbcQ_LJdnzQ7MsTAErAf_zQ/edit"
-ref_sheet_url = "https://docs.google.com/spreadsheets/d/1bRCqItJyoxecxHDXC-pwrAP-4ZXfHovdceA6RqhGg2A/edit"
+ref_sheet_url = "https://docs.google.com/spreadsheets/d/1WzCW2LIwMh6w3ds6DmBGnwkvWYUiYiDYl6_0nnATA4o/edit"
 
 racing_display_to_identifier = {
     "horse-racing": "horse-racing",
